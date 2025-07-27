@@ -2,7 +2,7 @@ MODEL:
   BACKBONE:
     FREEZE_AT: 0
     NAME: "build_resnet_backbone_new"
-  WEIGHTS: "/home/data/fty/Code/KSPNet/PreTrainModel/ResNet101.pth" 
+  WEIGHTS: "/home/data/Code/KSPNet/PreTrainModel/ResNet101.pth" 
   PIXEL_MEAN: [123.675, 116.280, 103.530]
   PIXEL_STD: [58.395, 57.120, 57.375]
   RESNETS:
