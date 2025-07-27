@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export DETECTRON2_DATASETS=/home/data/fty/Code/KSPNet/datasets
+export DETECTRON2_DATASETS=/home/data/Code/KSPNet/datasets
 ngpus=$(nvidia-smi --list-gpus | wc -l)
 
 cfg_file=configs/CDS/WD_R101.yaml
