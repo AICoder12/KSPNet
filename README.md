@@ -22,8 +22,8 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 
 **Data preparation**
 
-+ We release the **CID-Seg dataset**，Please download form [here](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)
-+ The **WD-Seg dataset** is sourced from corporate collaborations. If you want to the data，please send  the email to us. we will send the download link once we receive and confirm your signed agreement.
++ We release the **CID-Seg dataset**，Please download form [here](https://github.com/AICoder12/KSPNet/blob/main/CID-Seg.zip)
++ The **WD-Seg dataset** is sourced from corporate collaborations. If you want to the data，please send  the email to us. we will send the download link once we receive and confirm your signed agreement. The email will be made public after the review process.
 + After downloading the dataset, please archive it into the `datasets` folder.
 
 **Quick Start**
