@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides the related code and experimental details for our research on Knowledge-Sharing Prompt Network for Continual Defect Segmentation.
+This repository provides the related code and experimental details for our research on KSPNet.
 
 ![KSPNet](figs/kspnet.png)
 
@@ -48,5 +48,6 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 
 + The code for this project refers to [mask2former](https://github.com/facebookresearch/Mask2Former). Thanks for the authors for their efforts.
 + If there are any issues with the code, please  send the email  to us. The email will be made public after the review process.
+
 
 
