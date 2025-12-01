@@ -21,7 +21,7 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 **Data preparation**
 
 + We release the **CID-Seg dataset**，Please download form [here](https://github.com/AICoder12/KSPNet/blob/main/CID-Seg.zip)
-+ The **WD-Seg dataset** is sourced from corporate collaborations. If you want to the data，please send  the email to us. we will send the download link once we receive and confirm your signed agreement. The email will be made public after the review process.
++ The **WD-Seg dataset** is sourced from corporate collaborations. If you want to the data，please send  the email to us. we will send the download link once we receive and confirm your signed agreement. 
 + After downloading the dataset, please archive it into the `datasets` folder.
 
 **Quick Start**
@@ -47,7 +47,7 @@ Our implementation is based on [mask2former](https://github.com/facebookresearch
 ## Notes
 
 + The code for this project refers to [mask2former](https://github.com/facebookresearch/Mask2Former). Thanks for the authors for their efforts.
-+ If there are any issues with the code, please  send the email  to us. The email will be made public after the review process.
++ If there are any issues with the code, please  send the email  to us.
 
 
 
